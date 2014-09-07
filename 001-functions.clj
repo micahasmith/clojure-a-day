@@ -6,6 +6,7 @@
   ;;    [1 2 3] is an example vector containing those elements
   [name]
     ;; str is a function that concatenates strings
+    ;; this gets returned
     (str "hello " name)
   )
 
